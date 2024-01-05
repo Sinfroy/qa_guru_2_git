@@ -1,0 +1,12 @@
+/.gradle
+/.idea
+*.log
+!**/src/main/**
+!**/src/test/**
+
+### IntelliJ IDEA ###
+*.iws
+*.iml
+*.ipr
+
+
